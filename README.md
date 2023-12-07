@@ -9,6 +9,7 @@ In the second phase, the focus shifts towards the robot's ability to search for 
 
 **Part 3: Object Separation Based on Color**
 The final component revolves around object classification based on colour differentiation. Here, the robot's task is to categorize objects by their colour attributes. Specifically, the code is designed to instruct the robot to relocate golden objects to the left side while positioning silver objects to the right side. 
+
 Here is the picture:
 
 
